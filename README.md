@@ -2,4 +2,4 @@
 
 Georgia State University - Computer Organization and Programming
 
-Developing Parallel Programming Skills with Raspberry PI
+Developing Assembly/Parallel Programming Skills with Raspberry PI
