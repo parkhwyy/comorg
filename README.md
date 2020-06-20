@@ -1,5 +1,5 @@
-# gsu-comorg
+# comorg
 
-Georgia State University - Computer Organization and Programming
+Computer Organization and Programming
 
 Developing Assembly / Parallel Programming Skills with Raspberry PI
